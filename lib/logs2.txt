@@ -1,0 +1,371 @@
+Launching lib/main.dart on SM N960U in debug mode...
+✓  Built build/app/outputs/flutter-apk/app-debug.apk.
+I/FlutterBluePlugin( 3357): setup
+Connecting to VM Service at ws://127.0.0.1:57616/0QiJ28dI6OI=/ws
+I/flutter ( 3357): ======Scanning for devices=====
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->allocateInstance(Ljava/lang/Class;)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->peekLong(JZ)J (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->pokeLong(JJZ)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->pokeInt(JIZ)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->peekInt(JZ)I (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->pokeByte(JB)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->peekByte(J)B (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->pokeByteArray(J[BII)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Llibcore/io/Memory;->peekByteArray(J[BII)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden field Ljava/nio/Buffer;->address:J (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, reflection, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, reflection, allowed)
+D/BluetoothAdapter( 3357): STATE_ON
+I/chatty  ( 3357): uid=10754(com.example.blue_test) identical 1 line
+D/BluetoothAdapter( 3357): STATE_ON
+D/BluetoothAdapter( 3357): BLE support array set: 010011
+D/BluetoothLeScanner( 3357): Start Scan with callback
+D/BluetoothLeScanner( 3357): onScannerRegistered() - status=0 scannerId=12 mScannerId=0
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+W/Gralloc3( 3357): mapper 3.x is not supported
+D/ViewRootImpl@24557a6[MainActivity]( 3357): Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=11 res=0x3 s={true 483740078080} ch=false
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+D/BluetoothAdapter( 3357): STATE_ON
+D/BluetoothAdapter( 3357): STATE_ON
+D/BluetoothLeScanner( 3357): Stop Scan with callback
+D/BluetoothAdapter( 3357): STATE_ON
+D/BluetoothAdapter( 3357): STATE_ON
+D/BluetoothLeScanner( 3357): could not find callback wrapper
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+D/FlutterBluePlugin( 3357): mDevices size: 0
+D/BluetoothAdapter( 3357): STATE_ON
+D/BluetoothGatt( 3357): connect() - device: E4:0D:3F:72:D6:48, auto: true
+D/BluetoothAdapter( 3357): isSecureModeEnabled
+D/BluetoothGatt( 3357): registerApp()
+D/BluetoothGatt( 3357): registerApp() - UUID=33de8871-e582-4029-b5e1-4273569b4076
+D/BluetoothGatt( 3357): onClientRegistered() - status=0 clientIf=12
+D/BluetoothGatt( 3357): onClientConnectionState() - status=0 clientIf=12 device=E4:0D:3F:72:D6:48
+D/FlutterBluePlugin( 3357): [onConnectionStateChange] status: 0 newState: 2
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+I/flutter ( 3357): ======Device services=====
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+D/BluetoothGatt( 3357): discoverServices() - device: E4:0D:3F:72:D6:48
+D/BluetoothGatt( 3357): onSearchComplete() = Device=E4:0D:3F:72:D6:48 Status=0
+D/FlutterBluePlugin( 3357): [onServicesDiscovered] count: 12 status: 0
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+I/flutter ( 3357): ======****** Reading ******=====
+I/flutter ( 3357): Service: 00001800-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a00-0000-1000-8000-00805f9b34fb serviceUuid: 00001800-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a00-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001800-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a01-0000-1000-8000-00805f9b34fb serviceUuid: 00001800-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a01-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001800-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a04-0000-1000-8000-00805f9b34fb serviceUuid: 00001800-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a04-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a25-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a25-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a27-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a27-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a28-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a28-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a23-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a23-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a50-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a50-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001530-0000-3512-2118-0009af100700
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001530-0000-3512-2118-0009af100700
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001811-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a46-0000-1000-8000-00805f9b34fb serviceUuid: 00001811-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a46-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001811-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a44-0000-1000-8000-00805f9b34fb serviceUuid: 00001811-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a44-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001802-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180d-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180d-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a39-0000-1000-8000-00805f9b34fb serviceUuid: 0000180d-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a39-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a2b-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a2b-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a04-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a04-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000006-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000006-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000007-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000007-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000020-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000020-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000011-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000011-0000-3512-2118-0009af100700 status: 2
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000012-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000012-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000013-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000013-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000009-0000-3512-2118-0009af100700 serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00000009-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): read is not allowed
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fede-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fede-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fedf-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fedf-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed0-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fed0-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed1-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fed1-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed2-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fed2-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed3-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fed3-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fec1-0000-3512-2118-0009af100700 serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 0000fec1-0000-3512-2118-0009af100700 status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Empty value
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 0000180f-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a19-0000-1000-8000-00805f9b34fb serviceUuid: 0000180f-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a19-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001812-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a4e-0000-1000-8000-00805f9b34fb serviceUuid: 00001812-0000-1000-8000-00805f9b34fb
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes( 3357): Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+D/FlutterBluePlugin( 3357): [onCharacteristicRead] uuid: 00002a4e-0000-1000-8000-00805f9b34fb status: 0
+I/flutter ( 3357): ===Value===
+I/flutter ( 3357): Unknown characteristic
+I/flutter ( 3357): ===========
+I/flutter ( 3357): Service: 00001812-0000-1000-8000-00805f9b34fb
+I/flutter ( 3357): ======Reading=====
+I/flutter ( 3357): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a4b-0000-1000-8000-00805f9b34fb serviceUuid: 00001812-0000-1000-8000-00805f9b34fb

@@ -1,0 +1,420 @@
+Launching lib/main.dart on SM N960U in debug mode...
+✓  Built build/app/outputs/flutter-apk/app-debug.apk.
+I/FlutterBluePlugin(16956): setup
+Connecting to VM Service at ws://127.0.0.1:63164/NMj9bhZYDR8=/ws
+I/flutter (16956): ======Scanning for devices=====
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->objectFieldOffset(Ljava/lang/reflect/Field;)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->allocateInstance(Ljava/lang/Class;)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->peekLong(JZ)J (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->pokeLong(JJZ)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->pokeInt(JIZ)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->peekInt(JZ)I (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->pokeByte(JB)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->peekByte(J)B (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->pokeByteArray(J[BII)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Llibcore/io/Memory;->peekByteArray(J[BII)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->arrayBaseOffset(Ljava/lang/Class;)I (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->arrayIndexScale(Ljava/lang/Class;)I (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden field Ljava/nio/Buffer;->address:J (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getLong(Ljava/lang/Object;J)J (greylist,core-platform-api, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, reflection, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, reflection, allowed)
+D/BluetoothAdapter(16956): STATE_ON
+I/chatty  (16956): uid=10754(com.example.blue_test) identical 1 line
+D/BluetoothAdapter(16956): STATE_ON
+D/BluetoothAdapter(16956): BLE support array set: 010011
+D/BluetoothLeScanner(16956): Start Scan with callback
+D/BluetoothLeScanner(16956): onScannerRegistered() - status=0 scannerId=12 mScannerId=0
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getInt(Ljava/lang/Object;J)I (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putInt(Ljava/lang/Object;JI)V (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+W/Gralloc3(16956): mapper 3.x is not supported
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+D/ViewRootImpl@24557a6[MainActivity](16956): Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=7 res=0x3 s={true 483740078080} ch=false
+D/BluetoothAdapter(16956): STATE_ON
+D/BluetoothAdapter(16956): STATE_ON
+D/BluetoothLeScanner(16956): Stop Scan with callback
+D/BluetoothAdapter(16956): STATE_ON
+D/BluetoothAdapter(16956): STATE_ON
+D/BluetoothLeScanner(16956): could not find callback wrapper
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+D/FlutterBluePlugin(16956): mDevices size: 0
+D/BluetoothAdapter(16956): STATE_ON
+D/BluetoothGatt(16956): connect() - device: E4:0D:3F:72:D6:48, auto: true
+D/BluetoothAdapter(16956): isSecureModeEnabled
+D/BluetoothGatt(16956): registerApp()
+D/BluetoothGatt(16956): registerApp() - UUID=c6536692-f975-4347-b7a7-7af2ab01a97e
+D/BluetoothGatt(16956): onClientRegistered() - status=0 clientIf=12
+D/BluetoothGatt(16956): onClientConnectionState() - status=0 clientIf=12 device=E4:0D:3F:72:D6:48
+D/FlutterBluePlugin(16956): [onConnectionStateChange] status: 0 newState: 2
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+I/flutter (16956): ======Device services=====
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+D/BluetoothGatt(16956): discoverServices() - device: E4:0D:3F:72:D6:48
+D/BluetoothGatt(16956): onSearchComplete() = Device=E4:0D:3F:72:D6:48 Status=0
+D/FlutterBluePlugin(16956): [onServicesDiscovered] count: 12 status: 0
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+I/flutter (16956): ======****** Reading ******=====
+I/flutter (16956): Service: 00001800-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a00-0000-1000-8000-00805f9b34fb serviceUuid: 00001800-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a00-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: Mi Smart Band 5
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 688961421312.0
+I/flutter (16956): Value : [77, 105, 32, 83, 109, 97, 114, 116, 32, 66, 97, 110, 100, 32, 53]
+I/flutter (16956): ===Value===
+I/flutter (16956): Mi Smart Band 5
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001800-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a01-0000-1000-8000-00805f9b34fb serviceUuid: 00001800-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a01-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Á
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001800-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a04-0000-1000-8000-00805f9b34fb serviceUuid: 00001800-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a04-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: 
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 7.346848100430083e-39
+I/flutter (16956): Value : [6, 0, 80, 0, 0, 0, 244, 1]
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a25-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a25-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: 48d6723f0de4
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 0.000003400736204639543
+I/flutter (16956): Value : [52, 56, 100, 54, 55, 50, 51, 102, 48, 100, 101, 52]
+I/flutter (16956): ===Value===
+I/flutter (16956): 48d6723f0de4
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a27-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a27-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: V0.44.17.2
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 1.6222597309933917e-7
+I/flutter (16956): Value : [86, 48, 46, 52, 52, 46, 49, 55, 46, 50]
+I/flutter (16956): ===Value===
+I/flutter (16956): V0.44.17.2
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a28-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a28-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: V1.0.2.66
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 6.337094182740088e-10
+I/flutter (16956): Value : [86, 49, 46, 48, 46, 50, 46, 54, 54]
+I/flutter (16956): ===Value===
+I/flutter (16956): V1.0.2.66
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a23-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a23-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: ä
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : -2.539546714434695e+38
+I/flutter (16956): Value : [228, 13, 63, 255, 254, 114, 214, 72]
+I/flutter (16956): ===Value===
+I/flutter (16956): ä
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a50-0000-1000-8000-00805f9b34fb serviceUuid: 0000180a-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a50-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: W=
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 0.03157711401581764
+I/flutter (16956): Value : [1, 87, 1, 61, 0, 1, 1]
+I/flutter (16956): ===Value===
+I/flutter (16956): W=
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180a-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001530-0000-3512-2118-0009af100700
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001530-0000-3512-2118-0009af100700
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001811-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a46-0000-1000-8000-00805f9b34fb serviceUuid: 00001811-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a46-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001811-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a44-0000-1000-8000-00805f9b34fb serviceUuid: 00001811-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a44-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001802-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180d-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180d-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a39-0000-1000-8000-00805f9b34fb serviceUuid: 0000180d-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a39-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956):
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a2b-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a2b-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: ç
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 1.075590134816738e-22
+I/flutter (16956): Value : [231, 7, 2, 27, 0, 16, 31, 1, 0, 0, 232]
+I/flutter (16956): ===Value===
+I/flutter (16956): ç
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a04-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a04-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): Value String: $
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 3.306128308432399e-39
+I/flutter (16956): Value : [36, 0, 36, 0, 9, 0, 244, 1]
+I/flutter (16956): ===Value===
+I/flutter (16956): $
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000006-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000006-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): Value String: a
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : -6.06253324846375e+23
+I/flutter (16956): Value : [15, 97, 0, 231, 7, 2, 26, 10, 56, 1, 232, 231, 7, 2, 26, 14, 52, 8, 232, 100]
+I/flutter (16956): ===Value===
+I/flutter (16956): a
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000007-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000007-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): Value String:
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 1.6815581571897805e-44
+I/flutter (16956): Value : [12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+I/flutter (16956): ===Value===
+I/flutter (16956):
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000020-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000020-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956):
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000011-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000011-0000-3512-2118-0009af100700 status: 2
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000012-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000012-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000013-0000-3512-2118-0009af100700 serviceUuid: 0000fee0-0000-1000-8000-00805f9b34fb
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putObject(Ljava/lang/Object;JLjava/lang/Object;)V (greylist, linking, allowed)
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000013-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee0-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00000009-0000-3512-2118-0009af100700 serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00000009-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): Value String: 
+I/flutter (16956): Data Value : _ByteDataView
+I/flutter (16956): Float Value : 1.401298464324817e-45
+I/flutter (16956): Value : [1, 0, 0, 0]
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): ===Value===
+I/flutter (16956): read is not allowed
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fede-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fede-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fedf-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fedf-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed0-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fed0-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed1-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fed1-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed2-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fed2-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fed3-0000-1000-8000-00805f9b34fb serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fed3-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000fee1-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 0000fec1-0000-3512-2118-0009af100700 serviceUuid: 0000fee1-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 0000fec1-0000-3512-2118-0009af100700 status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Empty value
+I/flutter (16956): ===========
+I/flutter (16956): Service: 0000180f-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a19-0000-1000-8000-00805f9b34fb serviceUuid: 0000180f-0000-1000-8000-00805f9b34fb
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a19-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): Batery level: 97%
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001812-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a4e-0000-1000-8000-00805f9b34fb serviceUuid: 00001812-0000-1000-8000-00805f9b34fb
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->getObject(Ljava/lang/Object;J)Ljava/lang/Object; (greylist, linking, allowed)
+W/ample.blue_tes(16956): Accessing hidden method Lsun/misc/Unsafe;->putLong(Ljava/lang/Object;JJ)V (greylist, linking, allowed)
+D/FlutterBluePlugin(16956): [onCharacteristicRead] uuid: 00002a4e-0000-1000-8000-00805f9b34fb status: 0
+I/flutter (16956): ===Value===
+I/flutter (16956): 
+I/flutter (16956): ===========
+I/flutter (16956): Service: 00001812-0000-1000-8000-00805f9b34fb
+I/flutter (16956): ======Reading=====
+I/flutter (16956): remoteId: E4:0D:3F:72:D6:48 characteristicUuid: 00002a4b-0000-1000-8000-00805f9b34fb serviceUuid: 00001812-0000-1000-8000-00805f9b34fb
