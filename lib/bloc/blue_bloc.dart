@@ -30,7 +30,7 @@ class BlueBloc extends Bloc<BlueEvent, BlueState> {
     flutterBlue.scanResults.listen((results) {
       for (ScanResult r in results) {
         if (!_devicesList.contains(r)) _devicesList.add(r);
-        //print('${r.device.name} found! rssi: ${r.rssi}');
+        // print('${r.device.name} found! rssi: ${r.rssi}');
       }
     });
     await flutterBlue.stopScan();
@@ -49,7 +49,13 @@ class BlueBloc extends Bloc<BlueEvent, BlueState> {
 
   Future<void> _getConnectedDevices() async {
     _connDevicesList = await flutterBlue.connectedDevices;
-
+    print("There are ${_connDevicesList.length} connected devices");
+    for (BluetoothDevice device in _connDevicesList) {
+      print("++++++ A connected device +++++");
+      print("${device.name}");
+      print("${device.id}");
+      print("${device.type}");
+    }
     _connDevicesList.forEach((device) async {
       // send open connection request to confirm connection
       try {

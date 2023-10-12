@@ -10,43 +10,52 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(
-          title: Text('Bluetooth test'),
-          actions: [
-            IconButton(
-              tooltip: "Refresh devices list",
-              onPressed: () {
-                BlocProvider.of<BlueBloc>(context).add(StartScanningEvent());
-              },
-              icon: Icon(Icons.refresh),
-            ),
-          ],
-        ),
-        body: BlocBuilder<BlueBloc, BlueState>(
-          builder: (context, state) {
-            if (state is BlueLookingForDevicesState)
-              return Center(child: CircularProgressIndicator());
-            else if (state is BlueFoundDevicesState)
-              return Column(
-                children: [
-                  Text("Dispositivos conectados:"),
-                  Expanded(child: _connectedDevices(context)),
-                  Text("Caracteristicas:"),
-                  Expanded(child: _caracteristics(context)),
-                ],
-              );
-            else
-              return Text("Procesando ...");
-          },
-        ));
+      appBar: AppBar(
+        title: Text('Bluetooth test'),
+        actions: [
+          IconButton(
+            tooltip: "Refresh devices list",
+            onPressed: () {
+              BlocProvider.of<BlueBloc>(context).add(StartScanningEvent());
+            },
+            icon: Icon(Icons.refresh),
+          ),
+        ],
+      ),
+      body: BlocBuilder<BlueBloc, BlueState>(
+        builder: (context, state) {
+          if (state is BlueLookingForDevicesState)
+            return Center(child: CircularProgressIndicator());
+          else if (state is BlueFoundDevicesState)
+            return Column(
+              children: [
+                Text("Dispositivos escaneados:"),
+                Expanded(child: _availableDevices(context)),
+                Text("Dispositivos conectados:"),
+                Expanded(child: _connectedDevices(context)),
+                Text("Caracteristicas:"),
+                Expanded(child: _caracteristics(context)),
+              ],
+            );
+          else
+            return Text("Procesando ...");
+        },
+      ),
+    );
   }
 
   ListView _connectedDevices(BuildContext context) {
     return ListView.builder(
       itemCount: BlocProvider.of<BlueBloc>(context).getConnDevicesList.length,
       itemBuilder: (BuildContext context, int index) {
-        return Text(
-            "Bluetooth connected ${BlocProvider.of<BlueBloc>(context).getConnDevicesList[index].name}");
+        return ListTile(
+          title: Text(
+            "${BlocProvider.of<BlueBloc>(context).getConnDevicesList[index].name}",
+          ),
+          subtitle: Text(
+            "Device id: ${BlocProvider.of<BlueBloc>(context).getConnDevicesList[index].id}",
+          ),
+        );
       },
     );
   }
@@ -72,9 +81,11 @@ class HomePage extends StatelessWidget {
         return ListTile(
           title: Text("Bluetooth device $index"),
           subtitle: Text(
-              "${BlocProvider.of<BlueBloc>(context).getDevicesList[index].device.id}"),
+              "${BlocProvider.of<BlueBloc>(context).getDevicesList[index].device.id}\n${BlocProvider.of<BlueBloc>(context).getDevicesList[index].device.name}"),
           onLongPress: () {
-            // TODO: conectar usando el bloc
+            // conectar usando el bloc
+            BlocProvider.of<BlueBloc>(context)
+                .add(TryConnectingEvent(device: index));
           },
         );
       },
